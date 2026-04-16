@@ -1,2 +1,15 @@
-# calculadora-presupuesto
-Proyecto de una calculadora de presupuesto mensual. El usuario ingresa sus ingresos y gastos y el programa genera un reporte completo con análisis(% de ahorros, gastos e inversión educativa).
+# Calculadora de Presupuesto Personal
+
+Programa en Python que analiza ingresos y gastos mensuales
+y genera un reporte con diagnóstico financiero.
+
+## ¿Qué hace?
+- Recibe ingresos y gastos del usuario
+- Calcula saldo disponible y porcentaje de ahorro
+- Da un diagnóstico financiero automático
+
+## Tecnologías
+- Python 3.14(64 bit)
+
+## Autor
+Luis Fernando CAPACOILA Copa — aprendiendo Python desde cero
