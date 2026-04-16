@@ -89,5 +89,3 @@ print(f"  Tu mayor inversion es tiempo, no dinero.")
 print("=" * 50)
 
 
-
-print("prueba git")
